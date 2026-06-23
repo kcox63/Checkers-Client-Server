@@ -20,7 +20,7 @@ Multiplayer checkers game built in Java using a client-server architecture with 
 - TCP/IP Networking
 - Object Serialization
 
-## Example Game
+### Example Game
 Inside of checkers-example-game folder there are 4 screenshots of an example game
 
 - Start-Of-Game: This shows what is shown when you first match with your opponent
