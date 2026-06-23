@@ -36,3 +36,12 @@ Contains the server, matchmaking system, game state management, and player recor
 - GUI Development
 - Data Persistence
 - Software Design
+
+## Author
+
+Kevin Cox
+
+Computer Science Student  
+University of Illinois-Chicago  
+Software Engineering Concentration  
+Chick Evans Scholar
