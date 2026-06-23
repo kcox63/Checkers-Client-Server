@@ -23,7 +23,8 @@ Multiplayer checkers game built in Java using a client-server architecture with 
 ### Example Game
 Inside of checkers-example-game folder there are 4 screenshots of an example game
 
-- Start-Of-Game: This shows what is shown when you first match with your opponent
+Start-Of-Game: This shows what is shown when you first match with your opponent
+![Start of Game](Start-Of-Game.png)  
 - Mid-Game: This shows a game in progress with chats sent, a couple pieces gone, and a piece already kinged.
 - End-Of-Game: This shows the end screen after a game ends for both sides of the game. It shows you win or you loss while giving you the option to play again.
 - Server: This shows the log of whats going on in the server during games.
